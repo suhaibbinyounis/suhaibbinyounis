@@ -57,15 +57,6 @@ Deep dives into technology, programming, and science.
 
 ---
 
-### 📊 **Stats**
-
-<div align="center">
-  <!-- Uses GitHub Action generated stats (reliable) -->
-  <img src="https://github.com/suhaibbinyounis/suhaibbinyounis/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
-</div>
-
----
-
 <div align="center">
   <i>"Give me a problem, I'll find the stack to solve it."</i>
   <br/><br/>
