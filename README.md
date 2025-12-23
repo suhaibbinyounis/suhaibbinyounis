@@ -1,8 +1,9 @@
 <div align="center">
 
-# Hi there 👋 I'm Suhaib.
+# Suhaib Bin Younis
+### Software Engineer @ Bank of America | AI Developer | Creator
 
-### Building software that scales. Exploring AI that thinks. Writing ideas that last.
+> _"Whatever it takes to ship—I do it."_
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/suhaibbinyounis?style=social)](https://twitter.com/suhaibbinyounis)
 [![Website](https://img.shields.io/badge/Website-suhaib.in-2ea44f?style=flat&logo=google-chrome)](https://suhaib.in)
@@ -10,6 +11,15 @@
 [![Apps](https://img.shields.io/badge/Apps-portfolio-orange?style=flat&logo=appveyor)](https://apps.suhaib.in)
 
 </div>
+
+---
+
+### 🔥 **The All-Rounder**
+
+I'm the go-to person. Architect. Code reviewer. Debugger. Tech support.
+From low-level C/C++ to high-level Python and Java. TypeScript and React for the frontend, Spring Boot and Node.js for the backend. I don't just write code—I architect systems, review pull requests, debug production issues, and fix what's broken.
+
+**Full-stack isn't a title; it's how I work.**
 
 ---
 
