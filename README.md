@@ -60,11 +60,8 @@ Deep dives into technology, programming, and science.
 ### 📊 **Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaibbinyounis&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibbinyounis&theme=radical&hide_border=true" height="150" alt="streak graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibbinyounis&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <!-- Uses GitHub Action generated stats (reliable) -->
+  <img src="https://github.com/suhaibbinyounis/suhaibbinyounis/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
