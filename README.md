@@ -23,8 +23,15 @@ I love building developer tools and exploring the frontiers of AI.
 
 ### 📊 **My Stats**
 
-![Suhaib's Stats](https://github-readme-stats.vercel.app/api?username=suhaibbinyounis&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibbinyounis&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhaibbinyounis&show_icons=true&theme=radical&hide_border=true" alt="Suhaib's Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaibbinyounis&theme=radical&hide_border=true" alt="Suhaib's Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibbinyounis&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 🛠️ **Tech Stack**
 
