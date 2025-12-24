@@ -36,6 +36,9 @@ This is where my focus lives now. I've been driving AI initiatives—building ap
 #### [⭐ Feature: GitHub Copilot API Gateway](https://github.com/suhaibbinyounis/github-copilot-api-vscode)
 > **Unlock the full power of GitHub Copilot.** A local proxy that lets you use your Copilot subscription with **Cursor**, **LangChain**, and any other OpenAI-compatible tool.
 
+#### [🤖 Research: LLM Web Agent](https://github.com/suhaibbinyounis/llm-web-agent)
+> **Fast & Robust Browser Automation.** A new architecture combining O(1) text indexing, parallel selectors, and LLM fallback to solve brittle web agents.
+
 ---
 
 ### 📱 **Apps & Projects**
