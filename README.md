@@ -14,7 +14,22 @@
 
 ---
 
-### 🔥 **The All-Rounder**
+### � **Currently Building: LLM Web Agent**
+
+[**View Project**](https://github.com/suhaibbinyounis/llm-web-agent)
+
+> **A research-driven approach to browser automation combining pattern-based element resolution with LLM intelligence for robust, fast, and natural web interactions.**
+
+This project explores a critical question in AI-driven browser automation: **How can we build web agents that are both fast AND robust, without relying entirely on expensive LLM calls for every interaction?**
+
+**Key Innovations:**
+*   **Intelligent Resolution Architecture**: detailed multi-layered engine combining O(1) text indexing, Playwright selectors, and LLM fallback.
+*   **Performance**: Executes actions significantly faster than visual AI agents while maintaining high reliability.
+*   **Framework-Agnostic**: Works seamlessly across React, Angular, Material UI, and static sites.
+
+---
+
+### �🔥 **The All-Rounder**
 
 I'm the go-to person. Architect. Code reviewer. Debugger. Tech support.
 From low-level C/C++ to high-level Python and Java. TypeScript and React for the frontend, Spring Boot and Node.js for the backend. I don't just write code—I architect systems, review pull requests, debug production issues, and fix what's broken.
@@ -35,9 +50,6 @@ This is where my focus lives now. I've been driving AI initiatives—building ap
 
 #### [⭐ Feature: GitHub Copilot API Gateway](https://github.com/suhaibbinyounis/github-copilot-api-vscode)
 > **Unlock the full power of GitHub Copilot.** A local proxy that lets you use your Copilot subscription with **Cursor**, **LangChain**, and any other OpenAI-compatible tool.
-
-#### [🤖 Research: LLM Web Agent](https://github.com/suhaibbinyounis/llm-web-agent)
-> **Fast & Robust Browser Automation.** A new architecture combining O(1) text indexing, parallel selectors, and LLM fallback to solve brittle web agents.
 
 ---
 
