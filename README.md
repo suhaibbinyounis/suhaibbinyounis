@@ -1,12 +1,12 @@
 <div align="center">
 
 # Suhaib Bin Younis
-### Software Engineer @ Bank of America | AI Developer | Creator
+### Software Engineer | AI Developer | Creator
 
 > _"Whatever it takes to ship—I do it."_
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/suhaibbinyounis?style=social)](https://twitter.com/suhaibbinyounis)
-[![Website](https://img.shields.io/badge/Website-suhaib.in-2ea44f?style=flat&logo=google-chrome)](https://suhaib.in)
+[![Website](https://img.shields.io/badge/Website-suhaib.in-2ea44f?style=flat&logo=google-chrome)](https://suhaibbinyounis.com)
 [![Notes](https://img.shields.io/badge/Notes-knowledge%20base-blue?style=flat&logo=gitbook)](https://notes.suhaib.in)
 [![Apps](https://img.shields.io/badge/Apps-portfolio-orange?style=flat&logo=appveyor)](https://apps.suhaib.in)
 
