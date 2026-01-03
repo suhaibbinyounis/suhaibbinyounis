@@ -100,18 +100,17 @@
   
   <!-- Main Content -->
   <g class="floating">
-    <!-- Wave Emoji -->
-    <text x="80" y="85" font-size="36" class="wave">👋</text>
+
     
     <!-- Name -->
-    <text x="130" y="85" class="title">Hi, I'm Suhaib Bin Younis</text>
+    <text x="80" y="85" class="title">Hi, I'm Suhaib Bin Younis</text>
     
     <!-- Subtitle -->
-    <text x="130" y="120" class="subtitle">Software Engineer • AI Developer • Creator</text>
+    <text x="80" y="120" class="subtitle">Software Engineer • AI Developer • Creator</text>
     
     <!-- Tagline with cursor -->
-    <text x="130" y="155" class="tagline">$ echo "Whatever it takes to ship—I do it."</text>
-    <rect class="cursor" x="485" y="142" width="8" height="14"/>
+    <text x="80" y="155" class="tagline">$ echo "Whatever it takes to ship—I do it."</text>
+    <rect class="cursor" x="435" y="142" width="8" height="14"/>
   </g>
   
   <!-- Code decoration -->

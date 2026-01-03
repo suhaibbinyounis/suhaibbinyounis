@@ -40,7 +40,7 @@ Because when the chase fades, when illusions crumble, when everything falls apar
 <br/>
 
 <!-- Featured Projects -->
-## 🔥 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
