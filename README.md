@@ -77,15 +77,6 @@ const suhaib = {
 
 <br/>
 
-<!-- Detailed Metrics -->
-## 📊 Detailed Metrics
-
-<div align="center">
-<img src="./github-metrics.svg" alt="Metrics"/>
-</div>
-
-<br/>
-
 <!-- Footer -->
 <div align="center">
   
