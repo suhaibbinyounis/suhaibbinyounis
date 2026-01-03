@@ -6,7 +6,6 @@
 <!-- Badges & Links -->
 <div align="center">
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=suhaibbinyounis&style=for-the-badge&color=58a6ff)](https://github.com/suhaibbinyounis)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/suhaibbinyounis)
   [![Website](https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suhaibbinyounis.com)
   [![Notes](https://img.shields.io/badge/Knowledge_Base-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://notes.suhaib.in)
@@ -30,7 +29,6 @@
 
 ```javascript
 const suhaib = {
-    pronouns: "he" | "him",
     location: "building the future, one commit at a time",
     currentFocus: ["AI/LLM Applications", "Browser Automation", "RAG Pipelines"],
     askMeAbout: ["web dev", "AI agents", "system design", "debugging production fires"],
@@ -79,90 +77,6 @@ const suhaib = {
 
 <br/>
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### AI & ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Langraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=suhaibbinyounis&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=suhaibbinyounis&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f778ba&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaibbinyounis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<!-- Trophy Case -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suhaibbinyounis&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy Case"/>
-</div>
-
-<br/>
-
-<!-- Contribution Snake -->
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhaibbinyounis/suhaibbinyounis/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhaibbinyounis/suhaibbinyounis/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/suhaibbinyounis/suhaibbinyounis/output/github-snake.svg" />
-</picture>
-
-<br/>
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhaibbinyounis&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=a371f7&point=f778ba" alt="Activity Graph"/>
-</div>
-
-<br/>
-
 <!-- Apps & Projects -->
 ## 📱 Apps & Projects
 
@@ -198,8 +112,8 @@ Deep dives into technology, programming, and science.
 
 <br/>
 
-<!-- Metrics -->
-## 📉 Detailed Metrics
+<!-- Detailed Metrics -->
+## 📊 Detailed Metrics
 
 <div align="center">
 <img src="./github-metrics.svg" alt="Metrics"/>
