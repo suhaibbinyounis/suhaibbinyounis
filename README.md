@@ -52,8 +52,7 @@ Because when the chase fades, when illusions crumble, when everything falls apar
   <i>"Give me a problem, I'll find the stack to solve it."</i>
   <br/><br/>
   <a href="https://suhaibbinyounis.com">Website</a> • 
-  <a href="mailto:vscode@suhaib.in">Email</a> • 
-  <a href="https://x.com/suhaibbinyounis">X</a>
+  <a href="mailto:github@suhaib.in">Email</a>
 </samp>
 
 </div>
