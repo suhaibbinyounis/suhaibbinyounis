@@ -1,7 +1,4 @@
-<!-- Animated Header -->
-<div align="center">
-  <img src="./assets/header.svg" alt="Header" width="800"/>
-</div>
+
 
 <!-- Badges & Links -->
 <div align="center">
@@ -18,7 +15,7 @@
 <!-- Quick Intro -->
 <div align="center">
   <samp>
-    「 Full-stack engineer who architects systems, reviews code, debugs production, and ships what matters. 」
+    I am a self pro-claimed scientist
   </samp>
 </div>
 
