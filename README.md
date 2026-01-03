@@ -12,15 +12,6 @@
 
 <br/>
 
-<!-- Quick Intro -->
-<div align="center">
-  <samp>
-    I am a self pro-claimed scientist
-  </samp>
-</div>
-
-<br/>
-
 <!-- The Message Section -->
 ## The Message
 
@@ -46,7 +37,7 @@ Because when the chase fades, when illusions crumble, when everything falls apar
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 <samp>
-  <i>"Give me a problem, I'll find the stack to solve it."</i>
+  <i>"I am a self pro-claimed scientist"</i>
   <br/><br/>
   <a href="https://suhaibbinyounis.com">Website</a> • 
   <a href="mailto:github@suhaib.in">Email</a>
