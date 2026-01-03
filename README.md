@@ -77,41 +77,6 @@ const suhaib = {
 
 <br/>
 
-<!-- Apps & Projects -->
-## 📱 Apps & Projects
-
-A collection of web applications and tools I've built. All free to use.
-
-| App | Category | Description |
-| :--- | :--- | :--- |
-| **[Echo: API Client](https://testapis.suhaib.in)** | ⚡ Productivity | Test APIs instantly, no signup needed. |
-| **[Al-Quran Reader](https://quran.suhaib.in)** | 📖 Education | Read and study the Holy Quran with translation. |
-| **[Book Nook](https://books.suhaib.in)** | 📚 Education | Explore 70,000+ classic books. |
-| **[StreamFlix](https://anime.suhaib.in/v1/movie.html)** | 🎬 Entertainment | Watch movies, dramas, and shows for free. |
-| **[P2P Transfer](https://transfer.suhaib.in)** | 🛠️ Utilities | Secure peer-to-peer file sharing directly between devices. |
-| **[LonelyBird](https://lonelybird-fb0bc.web.app/)** | 💬 Social | 100% free anonymous chat that actually works. |
-
-👉 **[View All Apps (10+)](https://apps.suhaib.in)**
-
-<br/>
-
-<!-- Knowledge Base -->
-## 🧠 Knowledge Base
-
-Deep dives into technology, programming, and science.
-
-<div align="center">
-
-[![LLMs & AI](https://img.shields.io/badge/LLMs_&_AI-Prompt_Engineering,_System_Design-58a6ff?style=flat-square)](https://notes.suhaib.in/docs/tech/llms/)
-[![Programming](https://img.shields.io/badge/Programming-Best_Practices,_Patterns-a371f7?style=flat-square)](https://notes.suhaib.in/docs/tech/programming/)
-[![Code](https://img.shields.io/badge/Code-Algorithms,_Challenges-f778ba?style=flat-square)](https://notes.suhaib.in/docs/code/)
-[![System Design](https://img.shields.io/badge/System_Design-UI/UX,_Architecture-2ea44f?style=flat-square)](https://notes.suhaib.in/docs/tech/design/)
-[![Physics](https://img.shields.io/badge/Physics-Classical_to_Quantum-ED8B00?style=flat-square)](https://notes.suhaib.in/docs/tech/physics/)
-
-</div>
-
-<br/>
-
 <!-- Detailed Metrics -->
 ## 📊 Detailed Metrics
 
