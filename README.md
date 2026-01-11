@@ -12,6 +12,8 @@
 
 <br/>
 
+<p>Visit <a href="https://notes.suhaib.in">Notes</a></p>
+
 <!-- The Message Section -->
 ## The Message
 
