@@ -1,20 +1,3 @@
-
-
-<!-- Badges & Links -->
-<div align="center">
-  
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/suhaibbinyounis)
-  [![Website](https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suhaibbinyounis.com)
-  [![Notes](https://img.shields.io/badge/Knowledge_Base-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://notes.suhaib.in)
-  [![Apps](https://img.shields.io/badge/Apps-orange?style=for-the-badge&logo=appveyor&logoColor=white)](https://apps.suhaib.in)
-  
-</div>
-
-<br/>
-
-<p>Visit <a href="https://notes.suhaib.in">Notes</a></p>
-
-<!-- The Message Section -->
 ## The Message
 
 Gratitude overwhelms me, for life, for the people who stand beside me, for the quiet moments that remind me of what truly matters. None of this holds meaning without the ones who make it whole. I could never deserve the love I’ve been given, the kindness, the depth of connection. It humbles me. It reminds me, this journey was never meant to be walked alone.
@@ -27,22 +10,3 @@ Because when the chase fades, when illusions crumble, when everything falls apar
 
 **Hold onto them.**
 
-<br/>
-
-
-
-<!-- Footer -->
-<div align="center">
-  
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<samp>
-  <i>"I am a self pro-claimed scientist"</i>
-  <br/><br/>
-  <a href="https://suhaibbinyounis.com">Website</a> • 
-  <a href="mailto:github@suhaib.in">Email</a>
-</samp>
-
-</div>
